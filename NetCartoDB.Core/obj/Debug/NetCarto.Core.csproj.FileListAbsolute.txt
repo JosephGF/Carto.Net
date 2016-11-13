@@ -1,0 +1,9 @@
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Core\bin\Debug\NetCarto.Core.dll
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Core\bin\Debug\NetCarto.Core.pdb
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Core\obj\Debug\NetCarto.Core.csprojResolveAssemblyReference.cache
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Core\obj\Debug\NetCarto.Core.Properties.Resources.resources
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Core\obj\Debug\NetCarto.Core.csproj.GenerateResource.Cache
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Core\obj\Debug\NetCarto.Core.dll
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Core\obj\Debug\NetCarto.Core.pdb

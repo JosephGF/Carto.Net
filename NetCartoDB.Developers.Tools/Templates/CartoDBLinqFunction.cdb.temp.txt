@@ -1,0 +1,15 @@
+﻿using System;
+
+namespace [:FIELD(1,1)]
+{
+	public static class [:FIELD(1,2)] {
+		[:EACHROW(2,999)]
+		[:ROWFIELD(4)]
+		[SQLFunctionExtensios([:ROWFIELD(1)])]
+		public static Func<T, object> [:ROWFIELD(2)]<T>([:ROWFIELD(3)]) where T : ICartoEntity
+		{
+			return Constants.CARTODB_SQL_FUNCTION as Func<T, object>;
+		}
+		[:EACHROW/]
+	}
+}

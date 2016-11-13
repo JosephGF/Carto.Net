@@ -1,0 +1,77 @@
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\net.cartodb.html
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\net.cartodb.js
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Common.dll
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Common.pdb
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Core.dll
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Core.pdb
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.csprojResolveAssemblyReference.cache
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.dll
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.pdb
+C:\Users\ygiron\Dropbox\src\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\net.cartodb.html
+C:\Users\ygiron\Dropbox\src\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\net.cartodb.js
+C:\Users\ygiron\Dropbox\src\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Common.dll
+C:\Users\ygiron\Dropbox\src\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Common.pdb
+C:\Users\ygiron\Dropbox\src\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Core.dll
+C:\Users\ygiron\Dropbox\src\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ygiron\Dropbox\src\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Core.pdb
+C:\Users\ygiron\Dropbox\src\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ygiron\Dropbox\src\C#\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.csprojResolveAssemblyReference.cache
+C:\Users\ygiron\Dropbox\src\C#\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.dll
+C:\Users\ygiron\Dropbox\src\C#\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.pdb
+D:\Dropbox\Dropbox\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\net.cartodb.html
+D:\Dropbox\Dropbox\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\net.cartodb.js
+D:\Dropbox\Dropbox\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Common.dll
+D:\Dropbox\Dropbox\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Common.pdb
+D:\Dropbox\Dropbox\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Core.dll
+D:\Dropbox\Dropbox\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Dropbox\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Core.pdb
+D:\Dropbox\Dropbox\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Dropbox\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.dll
+D:\Dropbox\Dropbox\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.pdb
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\net.cartodb.html
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\net.cartodb.js
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Common.dll
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Common.pdb
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Core.dll
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Core.pdb
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.dll
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.pdb
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\net.cartodb.html
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\net.cartodb.js
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Common.dll
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Common.pdb
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Core.dll
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Core.pdb
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.csprojResolveAssemblyReference.cache
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.dll
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.pdb
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\net.cartodb.html
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\net.cartodb.js
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Common.dll
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Common.pdb
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Core.dll
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Core.pdb
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.csprojResolveAssemblyReference.cache
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.dll
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.pdb
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\net.cartodb.html
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\net.cartodb.js
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Common.dll
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Common.pdb
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCarto.Core.dll
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCarto.Core.pdb
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.csprojResolveAssemblyReference.cache
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.dll
+C:\Users\jgf\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Common.pdb

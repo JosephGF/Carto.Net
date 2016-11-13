@@ -1,0 +1,7 @@
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Core.dll
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Map.Core.pdb
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Core.dll
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\bin\Debug\NetCartoDB.Core.pdb
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Core.csprojResolveAssemblyReference.cache
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Core.dll
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Map.Core\obj\Debug\NetCartoDB.Map.Core.pdb

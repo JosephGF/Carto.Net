@@ -1,0 +1,27 @@
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\NetCartoDB.CartoCSS.dll
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\NetCartoDB.CartoCSS.pdb
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.CartoCSS\obj\Debug\NetCartoDB.CartoCSS.csprojResolveAssemblyReference.cache
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.CartoCSS\obj\Debug\NetCartoDB.CartoCSS.dll
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.CartoCSS\obj\Debug\NetCartoDB.CartoCSS.pdb
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\NetCartoDB.CartoCSS.dll
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\NetCartoDB.CartoCSS.pdb
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\obj\Debug\NetCartoDB.CartoCSS.dll
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\obj\Debug\NetCartoDB.CartoCSS.pdb
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\NetCartoDB.CartoCSS.dll
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\NetCartoDB.CartoCSS.pdb
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\NetCartoDB.Core.dll
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\NetCartoDB.Core.pdb
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\obj\Debug\NetCartoDB.CartoCSS.csprojResolveAssemblyReference.cache
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\obj\Debug\NetCartoDB.CartoCSS.dll
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\obj\Debug\NetCartoDB.CartoCSS.pdb
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\NetCartoDB.CartoCSS.dll
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\NetCartoDB.CartoCSS.pdb
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\NetCartoDB.Core.dll
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\NetCartoDB.Core.pdb
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\obj\Debug\NetCartoDB.CartoCSS.csprojResolveAssemblyReference.cache
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\obj\Debug\NetCartoDB.CartoCSS.dll
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.CartoCSS\obj\Debug\NetCartoDB.CartoCSS.pdb

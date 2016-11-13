@@ -1,0 +1,24 @@
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\NetCartoDB.Test.SQL.exe.config
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\NetCartoDB.Test.SQL.exe
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\NetCartoDB.Test.SQL.pdb
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\NetCartoDB.SQL.dll
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\NetCartoDB.Core.dll
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\NetCartoDB.SQL.pdb
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\NetCartoDB.Core.pdb
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\obj\Debug\NetCartoDB.Test.SQL.csprojResolveAssemblyReference.cache
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\obj\Debug\NetCartoDB.Test.SQL.exe
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\obj\Debug\NetCartoDB.Test.SQL.pdb
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\NetCartoDB.Test.SQL.exe.config
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\NetCartoDB.Test.SQL.exe
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\NetCartoDB.Test.SQL.pdb
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\NetCartoDB.Core.dll
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\NetCartoDB.SQL.dll
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\NetCartoDB.Core.pdb
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\NetCartoDB.SQL.pdb
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\obj\Debug\NetCartoDB.Test.SQL.csprojResolveAssemblyReference.cache
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\obj\Debug\NetCartoDB.Test.SQL.exe
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Test.SQL\obj\Debug\NetCartoDB.Test.SQL.pdb

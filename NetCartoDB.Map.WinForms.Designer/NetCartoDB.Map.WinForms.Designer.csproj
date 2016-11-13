@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{23CAC060-7B89-46D2-BF6C-48531BA00FB1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NetCartoDB.Map.WinForms.Designer</RootNamespace>
+    <AssemblyName>NetCartoDB.Map.WinForms.Designer</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Generic\logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CefSharp">
+      <HintPath>..\packages\CefSharp.Common.49.0.1\build\..\CefSharp\x86\CefSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="CefSharp.Core">
+      <HintPath>..\packages\CefSharp.Common.49.0.1\build\..\CefSharp\x86\CefSharp.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="CefSharp.WinForms">
+      <HintPath>..\packages\CefSharp.WinForms.49.0.1\build\..\CefSharp\x86\CefSharp.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Generic\FormDesignerBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Generic\FormDesignerBase.Designer.cs">
+      <DependentUpon>FormDesignerBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Generic\TConvertBase.cs" />
+    <Compile Include="ITConvertSerializer.cs" />
+    <Compile Include="Layers\.Designer.cs">
+      <DependentUpon>FormDesignerLayers.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\DesignUIEditorLayers.cs" />
+    <Compile Include="Layers\FormDesignerLayers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\Objects\CartoDBLayer.designer.cs" />
+    <Compile Include="Map\Objects\MapOptions.designer.cs" />
+    <Compile Include="Layers\Objects\TileLayer.designer.cs" />
+    <Compile Include="Layers\Objects\TileLayerOptions.designer.cs" />
+    <Compile Include="Layers\UICollectionLayersEditor.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Generic\UICollectionEditorBase.cs" />
+    <Compile Include="Generic\UICollectionSimpleEditorBase.cs" />
+    <Compile Include="Generic\UICustomFormEditor.cs" />
+    <Compile Include="Generic\UIExpandibleEditorBase.cs" />
+    <Compile Include="Generic\UITypeEditorBase.cs" />
+    <EmbeddedResource Include="Generic\FormDesignerBase.resx">
+      <DependentUpon>FormDesignerBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\FormDesignerLayers.resx">
+      <DependentUpon>FormDesignerLayers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Generic\logo.ico" />
+    <None Include="Resources\logo.ico" />
+    <None Include="References.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NetCartoDB.Core\NetCartoDB.Core.csproj">
+      <Project>{bd9d9d02-b942-43a5-ad63-591bc3bf81a2}</Project>
+      <Name>NetCartoDB.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NetCartoDB.Map.Core\NetCartoDB.Map.Common.csproj">
+      <Project>{c5a68e05-e51e-4a37-bc63-c08c2da5774b}</Project>
+      <Name>NetCartoDB.Map.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

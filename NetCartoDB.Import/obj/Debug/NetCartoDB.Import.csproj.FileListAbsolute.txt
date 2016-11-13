@@ -1,0 +1,19 @@
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Import\bin\Debug\NetCartoDB.Import.dll
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Import\bin\Debug\NetCartoDB.Import.pdb
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Import\obj\Debug\NetCartoDB.Import.dll
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Import\obj\Debug\NetCartoDB.Import.pdb
+C:\Users\ygiron\OneDrive\Apps\C#\NetCartoDB.Core\NetCartoDB.Import\obj\Debug\NetCartoDB.Import.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Import\bin\Debug\NetCartoDB.Import.dll
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Import\bin\Debug\NetCartoDB.Import.pdb
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Import\obj\Debug\NetCartoDB.Import.dll
+D:\Dropbox\Dropbox\Apps\CSharp\NetCartoDB.Core\NetCartoDB.Import\obj\Debug\NetCartoDB.Import.pdb
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Import\bin\Debug\NetCartoDB.Import.dll
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Import\bin\Debug\NetCartoDB.Import.pdb
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Import\obj\Debug\NetCartoDB.Import.csprojResolveAssemblyReference.cache
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Import\obj\Debug\NetCartoDB.Import.dll
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Import\obj\Debug\NetCartoDB.Import.pdb
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Import\bin\Debug\NetCartoDB.Import.dll
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Import\bin\Debug\NetCartoDB.Import.pdb
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Import\obj\Debug\NetCartoDB.Import.csprojResolveAssemblyReference.cache
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Import\obj\Debug\NetCartoDB.Import.dll
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Import\obj\Debug\NetCartoDB.Import.pdb

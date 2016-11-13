@@ -1,0 +1,20 @@
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\bin\Debug\Templates\CartoDBLinqFunction.cdb.temp.txt
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\bin\Debug\NetCartoDB.Developers.Tools.exe.config
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\bin\Debug\NetCartoDB.Developers.Tools.exe
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\bin\Debug\NetCartoDB.Developers.Tools.pdb
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\obj\Debug\NetCartoDB.Developers.Tools.csprojResolveAssemblyReference.cache
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\obj\Debug\NetCartoDB.Developers.Tools.FrmTemplateParser.resources
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\obj\Debug\NetCartoDB.Developers.Tools.Properties.Resources.resources
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\obj\Debug\NetCartoDB.Developers.Tools.csproj.GenerateResource.Cache
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\obj\Debug\NetCartoDB.Developers.Tools.exe
+C:\Users\ygiron\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\obj\Debug\NetCartoDB.Developers.Tools.pdb
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\bin\Debug\Templates\CartoDBLinqFunction.cdb.temp.txt
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\bin\Debug\NetCartoDB.Developers.Tools.exe.config
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\bin\Debug\NetCartoDB.Developers.Tools.exe
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\bin\Debug\NetCartoDB.Developers.Tools.pdb
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\obj\Debug\NetCartoDB.Developers.Tools.csprojResolveAssemblyReference.cache
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\obj\Debug\NetCartoDB.Developers.Tools.FrmTemplateParser.resources
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\obj\Debug\NetCartoDB.Developers.Tools.Properties.Resources.resources
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\obj\Debug\NetCartoDB.Developers.Tools.csproj.GenerateResource.Cache
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\obj\Debug\NetCartoDB.Developers.Tools.exe
+D:\Dropbox\wets666\Masip WEB\Dropbox\src\CSharp\NetCartoDB.Core\NetCartoDB.Developers.Tools\obj\Debug\NetCartoDB.Developers.Tools.pdb

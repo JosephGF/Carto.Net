@@ -1,0 +1,2 @@
+﻿http://www.codeproject.com/Articles/5372/How-to-Edit-and-Persist-Collections-with-Collectio
+http://www.codeproject.com/Articles/9667/Creating-Custom-Controls-Providing-Design-Time-Sup
